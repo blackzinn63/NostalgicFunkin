@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character color="#464948" x="0" icon="Vs Agoti/agoti crazy" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Vs Agoti/Agoti Angry">
-	<anim x="0" loop="false" y="0" fps="24" anim="Angry_Agoti_Idle" name="idle"/>
-	<anim x="35" loop="false" y="-130" fps="24" anim="Angry_Agoti_Down" name="singDOWN"/>
-	<anim x="-21" loop="false" y="-28" fps="24" anim="Angry_Agoti_Right" name="singRIGHT"/>
-	<anim x="74" loop="false" y="125" fps="24" anim="Angry_Agoti_Up" name="singUP"/>
-	<anim x="168" loop="false" y="-70" fps="24" anim="Angry_Agoti_Left" name="singLEFT"/>
-</character>
